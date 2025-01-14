@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,slack
 DOMAIN-KEYWORD,bard
 DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,cursor.sh
 DOMAIN-KEYWORD,poe
 DOMAIN-KEYWORD,flowgpt
 DOMAIN-KEYWORD,vercel
@@ -11,4 +12,4 @@ DOMAIN-KEYWORD,ylsap
 DOMAIN-KEYWORD,makersuite
 DOMAIN-SUFFIX,linux.do
 DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,cursor.sh
+
